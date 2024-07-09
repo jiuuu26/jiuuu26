@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://jiuuu.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory Blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a>
-<a href="www.linkedin.com/in/jiwookim-b25731318"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)"/></a>
+<a href="https://www.linkedin.com/in/jiwookim-b25731318/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)"/></a>
 </p>
   
 <!--
