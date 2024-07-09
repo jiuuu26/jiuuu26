@@ -3,9 +3,10 @@
 - 📖 I'm majoring in Computer Science & Engineering
 - 📫 How to reach me: wldn4036@gmail.com
 
+
 <p align="center">
 <a href="https://jiuuu.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a> <br>
-<a href="www.linkedin.com/in/지우-김-b25731318" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/jiwookim-b25731318" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
   
 <!--
@@ -38,6 +39,7 @@ Here are some ideas to get you started:
   <br>
 
 <br>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiuuu26&layout=compact)
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiuuu26&layout=compact)
+-->  
 </p>
