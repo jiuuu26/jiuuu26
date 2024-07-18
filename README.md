@@ -37,8 +37,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>&nbsp
 
   <br>
+  <br>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jiuuu26&layout=compact" />
 
-<br>
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiuuu26&layout=compact)
 -->  
